@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import './Geral.css';
 
-function App() {
+function Acc() {
   return (
     <div className="Main">
       <Header />
@@ -11,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default Acc;

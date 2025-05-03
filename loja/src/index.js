@@ -3,8 +3,11 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import About from './About';
+import Faqs from './Faqs';
+import Contacts from './Contacts';
 import reportWebVitals from './reportWebVitals';
-import Login from './components/Login';
+import Login from './Acc';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -13,6 +16,9 @@ root.render(
   <Routes>
   <Route path="/" element={<App />} />
   <Route path="/login" element={< Login />} />
+  <Route path="/about" element={< About />} />
+  <Route path="/faqs" element={< Faqs />} />
+  <Route path="/contacts" element={< Contacts />} />
   </Routes>
 </BrowserRouter>
   </React.StrictMode>

@@ -12,14 +12,16 @@ return (
   <button>≡</button>
   </div>
 
-  <div className="logo">LALALAALAL</div>
+  <div className="logo"onClick={() => navigate('/')}>
+  LALALAALAL
+  </div>
 
   < nav className="right-section">
   <div className="cart" onClick={() => navigate('/cart')}>
   <p> 🛒 Carrinho </p>
         </div>
   <div className="account" onClick={() => navigate('/login')}>
-  <p> 👤 Login </p>
+  <p> 👤 Login/Registo </p>
         </div>
         </nav>
         </header>

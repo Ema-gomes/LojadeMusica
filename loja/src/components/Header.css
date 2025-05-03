@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #ead65e;
+  background-color: #8682ed;
   padding: 20px;
   font-family: Arial, sans-serif;
 }
@@ -19,6 +19,7 @@ button {
   cursor: pointer;
   user-select: none;
   line-height: 1;
+  color: white
 }
 
 .logo {
@@ -27,7 +28,7 @@ button {
   transform: translateX(-50%);
   font-size: 30px;
   font-weight: bold;
-  color: #a11c23;
+  color: #1c4da3;
   font-family: sans-serif;
 }
 
@@ -43,7 +44,7 @@ button {
   align-items: center;
   gap: 6px;
   cursor: pointer;
-  color: black;
+  color: white;
 }
 
 .account p, .cart p {
