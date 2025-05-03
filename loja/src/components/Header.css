@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: space-between;
   background-color: #ead65e;
-  padding: 10px 20px;
+  padding: 20px;
   font-family: Arial, sans-serif;
 }
 
@@ -13,65 +13,41 @@
   gap: 12px;
 }
 
-.menu-icon {
-  font-size: 22px;
+button {
+  all: unset;
+  font-size: 24px;
   cursor: pointer;
   user-select: none;
-}
-
-.search-bar {
-  display: flex;
-  align-items: center;
-  background: white;
-  border-radius: 50px;
-  padding: 6px 12px;
-}
-
-.search-bar input {
-  border: none;
-  outline: none;
-  font-size: 14px;
-  background: transparent;
-  width: 120px;
-}
-
-.search-button {
-  background: transparent;
-  border: none;
-  font-weight: bold;
-  font-size: 14px;
-  cursor: pointer;
+  line-height: 1;
 }
 
 .logo {
-  font-size: 28px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 30px;
   font-weight: bold;
   color: #a11c23;
-  text-align: center;
-  flex: 1;
-  margin: 0;
+  font-family: sans-serif;
 }
 
 .right-section {
   display: flex;
   align-items: center;
   gap: 24px;
+  flex: 0 0 auto;
 }
 
 .account, .cart {
   display: flex;
   align-items: center;
   gap: 6px;
-  text-decoration: none;
+  cursor: pointer;
   color: black;
 }
 
-.icon-placeholder {
-  font-size: 18px;
-}
-
-.account p,
-.cart p {
+.account p, .cart p {
   margin: 0;
-  font-size: 14px;
+  font-size: 16px;
+  font-family: sans-serif;
 }

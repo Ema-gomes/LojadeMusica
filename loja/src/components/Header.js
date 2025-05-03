@@ -9,13 +9,17 @@ return (
 <header className="header">
 
   <div className="left-section">
+  <button>≡</button>
   </div>
 
   <div className="logo">LALALAALAL</div>
 
   < nav className="right-section">
-  <div className="account" onClick={() => navigate('/account')}>
-  <p> 👤 Conta </p>
+  <div className="cart" onClick={() => navigate('/cart')}>
+  <p> 🛒 Carrinho </p>
+        </div>
+  <div className="account" onClick={() => navigate('/login')}>
+  <p> 👤 Login </p>
         </div>
         </nav>
         </header>
