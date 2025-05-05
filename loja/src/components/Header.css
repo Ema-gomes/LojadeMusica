@@ -1,16 +1,21 @@
 .header {
+position: fixed;
+  top: 0;
+  right: 10px;
+  left: -20px;
+  width: 100%;
+  z-index: 1000;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #8682ed;
-  padding: 20px;
+  background-color: #e8f1f2;
+  padding: 20px 40px;
   font-family: Arial, sans-serif;
 }
 
 .left-section {
   display: flex;
   align-items: center;
-  gap: 12px;
 }
 
 button {
@@ -19,10 +24,12 @@ button {
   cursor: pointer;
   user-select: none;
   line-height: 1;
-  color: white
+  color: black
 }
 
 .logo {
+display: flex;
+align-items: center;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -36,15 +43,15 @@ button {
   display: flex;
   align-items: center;
   gap: 24px;
-  flex: 0 0 auto;
+  padding-right: 40px;
 }
 
 .account, .cart {
   display: flex;
   align-items: center;
-  gap: 6px;
   cursor: pointer;
-  color: white;
+  gap: 6px;
+  color: black;
 }
 
 .account p, .cart p {

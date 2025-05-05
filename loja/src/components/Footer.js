@@ -16,7 +16,7 @@ return (
     <td className="footer-section">
         <h3>Links Úteis</h3>
         <ul>
-            <li><a onClick={() => navigate('/about')}>Sobre Nós</a></li>
+            <li><a onClick={() => navigate('/about')}>Quem somos</a></li>
             <li><a onClick={() => navigate('/faqs')}>FAQs</a></li>
             <li><a onClick={() => navigate('/contacts')}>Contacta-nos</a></li>
         </ul>
