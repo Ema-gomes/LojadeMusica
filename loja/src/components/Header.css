@@ -42,7 +42,7 @@ align-items: center;
 .right-section {
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 20px;
   padding-right: 40px;
 }
 
@@ -50,12 +50,39 @@ align-items: center;
   display: flex;
   align-items: center;
   cursor: pointer;
-  gap: 6px;
   color: black;
 }
 
-.account p, .cart p {
-  margin: 0;
-  font-size: 16px;
-  font-family: sans-serif;
+
+.cart-count{
+width: 18px;
+height: 18px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: -35px;
+margin-left: -10px;
+border-radius: 11px;
+font-size: 11px;
+background: red;
+color: white;
+}
+
+.login button {
+width: 100px;
+height: 30px;
+outline: none;
+border: 1px;
+border-color: #1c4da3;
+border-radius: 75px;
+color: #515151;
+font-size: 15px;
+font-weight: 300;
+background: white;
+cursor: pointer;
+font-family: sans-serif;
+}
+
+.login button:active {
+background: #f3f3f3;
 }

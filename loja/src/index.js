@@ -8,6 +8,7 @@ import Faqs from './Faqs';
 import Contacts from './Contacts';
 import reportWebVitals from './reportWebVitals';
 import Login from './Acc';
+import Conta from './Conta';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -19,6 +20,7 @@ root.render(
   <Route path="/about" element={< About />} />
   <Route path="/faqs" element={< Faqs />} />
   <Route path="/contacts" element={< Contacts />} />
+  <Route path="/account" element={< Conta />} />
   </Routes>
 </BrowserRouter>
   </React.StrictMode>
