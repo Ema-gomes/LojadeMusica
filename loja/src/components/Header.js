@@ -6,6 +6,8 @@ import { useNavigate } from 'react-router-dom';
 
 function Header (){
 const navigate = useNavigate();
+
+
 //const [mostrarFooterOriginal, setMostrarFooterOriginal] = useState(true);
 //const toggleFooter = () => {
  //   setMostrarFooterOriginal(!mostrarFooterOriginal);
@@ -57,7 +59,7 @@ return (
     //</div>
   //</div>
 //</div>
-);
+      );
 }
 
 export default Header;
