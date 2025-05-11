@@ -1,7 +1,7 @@
-import Header from "./components/Header";
-import AboutUs from "./components/AboutUs";
-import Footer from "./components/Footer";
-import './Geral.css';
+import Header from "../components/Header/Header";
+import AboutUs from "../components/AboutUs/AboutUs";
+import Footer from "../components/Footer/Footer";
+import './CSS/Geral.css';
 
 function About() {
   return (

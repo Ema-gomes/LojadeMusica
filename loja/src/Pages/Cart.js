@@ -1,8 +1,9 @@
+import React from 'react';
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 import './CSS/Geral.css';
 
-function Contactos() {
+function Cart() {
   return (
     <div className="Main">
       <Header />
@@ -11,4 +12,4 @@ function Contactos() {
   );
 }
 
-export default Contactos;
+export default Cart;

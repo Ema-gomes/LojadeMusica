@@ -1,0 +1,80 @@
+{
+  "Vinil": [
+    {
+      "imagem": "https://media.s-bol.com/3X45oP8KPnQr/31wj3XQ/550x550.jpg",
+      "nome": "Billie Eilish: Hit Me Hard and Soft",
+      "preco": "38,99€",
+      "id": "1"
+    },
+    {
+      "imagem": "https://imusic.b-cdn.net/images/item/original/643/0191404143643.jpg?fontaines-d-c-2024-romance-lp&class=scaled&v=1726821114",
+      "nome": "Fontaines D.C.: Romance",
+      "preco": "23,99€",
+      "id": "2"
+    },
+    {
+      "imagem": "https://cdgo.com/thumbnail/370/6338009",
+      "nome": "Sabrina Carpenter: Short N' Sweet",
+      "preco": "34,99€",
+      "id": "3"
+    },
+    {
+      "imagem": "https://img.wook.pt/images/am-vinil-arctic-monkeys/MXwyNzY0MTM1M3wyNDAxNDgxN3wxNjkwNTQ5Mjg0MDAw/500x",
+      "nome": "Arctic Monkeys: AM",
+      "preco": "34,99€",
+      "id": "4"
+    }
+  ],
+   "CD": [
+    {
+      "imagem": "https://cdn.hmv.com/r/w-640/hmv/files/54/54d69aea-c9ac-4e77-8ba2-7be88708a8d2.jpg",
+      "nome": "Twenty One Pilots: Clancy",
+      "preco": "17,99€",
+      "id": "5"
+    },
+     {
+      "imagem": "https://img.thetedellis.com/v7/thetedellis.com/wp-content/uploads/2024/02/THE-STROKES-The-New-Abnormal-Jewel-Case-Compact-Disc.jpg?org_if_sml=0",
+      "nome": "The Strokes: The New Abnormal",
+      "preco": "12,99€",
+      "id": "6"
+    },
+    {
+      "imagem": "https://universalmusic.vtexassets.com/arquivos/ids/189084-800-800?v=638682254032200000&width=800&height=800&aspect=true",
+      "nome": "Taylor Swift: The Tortured Poets Department: The Antalogy",
+      "preco": "26,99€",
+      "id": "7"
+    },
+    {
+      "imagem": "https://musicstation.be/cdn/shop/files/inhaler_CD_copy.webp?v=1730388931",
+      "nome": "Inhaler: Open Wide",
+      "preco": "17,99€",
+      "id": "8"
+    }
+     ],
+  "Merchandise": [
+    {
+      "imagem": "https://store.taylorswift.com/cdn/shop/files/fywDRRryngT6VG7rvNyX.png?v=1687282777&width=1000",
+      "nome": "Taylor Swift: T-Shirt The Eras Tour",
+      "preco": "39,15€",
+      "id": "9"
+    },
+    {
+      "imagem": "https://shopuk.sabrinacarpenter.com/cdn/shop/files/Blue-Hoodie-Updated.webp?v=1744813625",
+      "nome": "Sabrina Carpenter: Sweat Short N' Sweet",
+      "preco": "84,00€",
+      "id": "10"
+    },
+    {
+      "imagem": "https://www.billieeilishstore.de/cdn/shop/files/Billie-Eilish_Thermal-Photo-Title-Pullover-Black_Hoodie_s508236_o3772449_a444771_v11785802.789afedb.png?v=1740481960",
+      "nome": "Billie Eilish: Sweat Hit Me Hard and Soft",
+      "preco": "120,00€",
+      "id": "11"
+    },
+    {
+      "imagem": "https://store.nbthieves.com/cdn/shop/files/NBT---UK-Hoodie-black-back.png?v=1700160293&width=533",
+      "nome": "Nothing But Thieves: Sweat DCC World Tour",
+      "preco": "66,33€",
+      "id": "12"
+    }
+  ]
+}

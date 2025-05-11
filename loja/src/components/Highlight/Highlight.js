@@ -1,7 +1,7 @@
 import React from "react";
 import './Highlight.css';
-import highlight from './imagens/highlight.png'
-import highlight1 from './imagens/highlight1.png'
+import highlight from '../imagens/highlight.png'
+import highlight1 from '../imagens/highlight1.png'
 
 function Highlight (){
 return (
