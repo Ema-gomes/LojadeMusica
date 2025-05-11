@@ -15,8 +15,8 @@ const {popular} = useContext(ShopContext)
       <p>
       <span> Showing 1-3 </span> out of 4 products
         </p>
-      <div className="shopcategory-sort">
-      Sort by
+      <div className="shopcategory-products">
+{popular.map((item))}
       </div>
       <Newsletter />
       <Footer />
