@@ -26,13 +26,25 @@ font-weight: 600;
 }
 
 .shopcategory-products{
+ display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  min-width: 200px;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.shopcategory-loadmore{
 display: flex;
-flex-wrap: wrap;
-  grid-template-columns: repeat(4, 1fr); /* 4 colunas por padrão */
-  gap: 30px;
-  max-width: 1600px;
-  margin: 40px auto;
-  padding: 0 20px;
-  box-sizing: border-box;
+justify-content: center;
+align-items: center;
+margin: 100px auto;
+width: 233px;
+height: 69px;
+border-radius: 75px;
+background: #ededed;
+color: #787878;
+font-size: 18px;
+font-weight: 500;
 }
 

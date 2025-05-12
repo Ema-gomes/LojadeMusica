@@ -53,7 +53,7 @@ return (
 function Vinil({imagem, nome, preco, id}) {
 return (
  <div className="produto" >
-<img src={imagem} alt="vinil" style={{ width: "40%" }}/>
+<img src={imagem} alt="vinil"/>
 <p>{nome}</p>
 <p>{preco}</p>
 </div>
