@@ -69,19 +69,22 @@ color: white;
 }
 
 .login button {
-width: 100px;
-height: 30px;
-outline: none;
-border: 1px;
-border-color: #1c4da3;
-border-radius: 75px;
-color: #515151;
-font-size: 15px;
-font-weight: 300;
-background: white;
-cursor: pointer;
-font-family: sans-serif;
+  width: auto;
+  padding: 6px 18px;
+  border: 1px solid #1c4da3;
+  border-radius: 30px;
+  background: white;
+  color: #1c4da3;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s ease;
 }
+
+.login button:hover {
+  background: #f0f0f0;
+}
+
 
 .login button:active {
 background: #f3f3f3;

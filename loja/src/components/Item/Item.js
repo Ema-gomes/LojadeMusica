@@ -1,10 +1,12 @@
 import React from 'react';
 import './Item.css';
 
-function Item() {
+function Item({ imagem, nome, preco, id }) {
   return (
-    <div className="item">
-<img src="" alt="" />
+    <div className="produto">
+      <img src={imagem} alt={nome} style={{ width: "40%" }} />
+      <p>{nome}</p>
+      <p>{preco}</p>
     </div>
   );
 }

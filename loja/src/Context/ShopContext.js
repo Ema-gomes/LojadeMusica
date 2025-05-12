@@ -1,14 +1,14 @@
 import React, { createContext } from "react";
-import popular from '../components/Popular/Popular.json';
+import ProdutosInfo from '../components/Products.json';
+
+const Produtos = ProdutosInfo.Produtos;
 
 export const ShopContext = createContext(null);
 
 const ShopContextProvider = (props) => {
 
-    const contextValue = {popular};
-
     return(
-        <ShopContext.Provider value={contextValue}>
+        <ShopContext.Provider value={{Produtos}}>
             {props.children}
         </ShopContext.Provider>
     )
