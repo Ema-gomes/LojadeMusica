@@ -9,7 +9,7 @@ import dropdown_icon from '../components/imagens/dropdown_icon.png'
 
 
 function ShopCategory(props) {
-const {Produtos} = useContext(ShopContext)
+const {Produtos} = useContext(ShopContext);
   return (
     <div className="ShopCategory">
     <Header />
