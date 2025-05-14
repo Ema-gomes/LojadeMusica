@@ -5,84 +5,210 @@
       "nome": "Billie Eilish: Hit Me Hard and Soft",
       "preco": "38,99€",
       "category": "vinyls",
-      "id": "1"
+      "id": "1",
+      "tracklist": [
+    "Skinny", "Lunch", "Chihiro", "Birds of a Feather", "Wildflower",
+    "The Greatest", "L’amour de ma vie", "The Diner", "Bittersuite", "Blue"
+  ]
     },
     {
       "imagem": "https://imusic.b-cdn.net/images/item/original/643/0191404143643.jpg?fontaines-d-c-2024-romance-lp&class=scaled&v=1726821114",
       "nome": "Fontaines D.C.: Romance",
       "preco": "23,99€",
       "category": "vinyls",
-      "id": "2"
+      "id": "2",
+      "tracklist": [
+    "Romance", "Starburster", "Here’s the Thing", "Favourite",
+    "In The Modern World", "Sundowner", "Death Kink", "Grand Illusion"
+  ]
     },
     {
       "imagem": "https://cdgo.com/thumbnail/370/6338009",
       "nome": "Sabrina Carpenter: Short N' Sweet",
       "preco": "34,99€",
       "category": "vinyls",
-      "id": "3"
+      "id": "3",
+      "tracklist": [
+    "Espresso", "Feather", "Because I Liked a Boy", "Nonsense",
+    "Fast Times", "Tornado Warnings", "Vicious", "Decode"
+  ]
     },
     {
       "imagem": "https://img.wook.pt/images/am-vinil-arctic-monkeys/MXwyNzY0MTM1M3wyNDAxNDgxN3wxNjkwNTQ5Mjg0MDAw/500x",
       "nome": "Arctic Monkeys: AM",
       "preco": "34,99€",
       "category": "vinyls",
-      "id": "4"
+      "id": "4",
+      "tracklist": [
+    "Do I Wanna Know?", "R U Mine?", "Arabella", "No. 1 Party Anthem",
+    "Fireside", "Why'd You Only Call Me When You're High?", "Snap Out of It", "I Wanna Be Yours"
+  ]
     },
+    {
+  "imagem": "",
+  "nome": "Nirvana: Nevermind (Vinyl)",
+  "preco": "28,90€",
+  "category": "vinyls",
+  "id": "5",
+  "tracklist": [
+    "Smells Like Teen Spirit", "In Bloom", "Come as You Are", "Breed",
+    "Lithium", "Polly", "Drain You", "Something in the Way"
+  ]
+},
+{
+  "imagem": "",
+  "nome": "Radiohead: OK Computer",
+  "preco": "31,50€",
+  "category": "vinyls",
+  "id": "6",
+  "tracklist": [
+    "Airbag", "Paranoid Android", "Subterranean Homesick Alien", "Exit Music (For a Film)",
+    "Let Down", "Karma Police", "No Surprises", "Lucky", "The Tourist"
+  ]
+},
+{
+  "imagem": "https://i.discogs.com/vZrli5d3kqV1Eij2kpsU_ZJ7Mo_t-A_Umd8aWy0QlGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk0/MTk0LTE1NjQwMzkz/MjgtNzUwMi5qcGVn.jpeg",
+  "nome": "The Beatles: Abbey Road (Remastered)",
+  "preco": "35,00€",
+  "category": "vinyls",
+  "id": "7",
+  "tracklist": [
+    "Come Together", "Something", "Octopus's Garden", "I Want You", "Here Comes the Sun",
+    "Because", "You Never Give Me Your Money", "The End"
+  ]
+},
     {
       "imagem": "https://cdn.hmv.com/r/w-640/hmv/files/54/54d69aea-c9ac-4e77-8ba2-7be88708a8d2.jpg",
       "nome": "Twenty One Pilots: Clancy",
       "preco": "17,99€",
       "category": "cds",
-      "id": "5"
+      "id": "8",
+      "tracklist": [
+    "Overcompensate", "Next Semester", "Backslide", "Midwest Indigo", "Lavish", "Vignette", "Oldies Station"
+  ]
     },
      {
       "imagem": "https://img.thetedellis.com/v7/thetedellis.com/wp-content/uploads/2024/02/THE-STROKES-The-New-Abnormal-Jewel-Case-Compact-Disc.jpg?org_if_sml=0",
       "nome": "The Strokes: The New Abnormal",
       "preco": "12,99€",
       "category": "cds",
-      "id": "6"
+      "id": "9",
+       "tracklist": [
+    "The Adults Are Talking", "Selfless", "Brooklyn Bridge to Chorus", "Bad Decisions",
+    "Eternal Summer", "At the Door", "Not the Same Anymore", "Ode to the Mets"
+  ]
     },
     {
       "imagem": "https://universalmusic.vtexassets.com/arquivos/ids/189084-800-800?v=638682254032200000&width=800&height=800&aspect=true",
       "nome": "Taylor Swift: The Tortured Poets Department: The Antalogy",
       "preco": "26,99€",
       "category": "cds",
-      "id": "7"
+      "id": "10",
+      "tracklist": [
+    "Fortnight", "The Tortured Poets Department", "My Boy Only Breaks His Favorite Toys",
+    "Guilty as Sin?", "Who's Afraid of Little Old Me?", "The Smallest Man Who Ever Lived",
+    "I Can Do It with a Broken Heart", "Clara Bow"
+  ]
     },
     {
       "imagem": "https://musicstation.be/cdn/shop/files/inhaler_CD_copy.webp?v=1730388931",
       "nome": "Inhaler: Open Wide",
       "preco": "17,99€",
       "category": "cds",
-      "id": "8"
+      "id": "11",
+      "tracklist": [
+    "Just to Keep You Satisfied", "Open Wide", "Valentine", "My King Will Be Kind",
+    "These Are the Days", "Totally", "If You're Gonna Break My Heart"
+  ]
     },
     {
+  "imagem": "https://media.s-bol.com/3JyXKr8Rjm0R/550x550.jpg",
+  "nome": "Lana Del Rey: Ocean Blvd",
+  "preco": "15,99€",
+  "category": "cds",
+  "id": "12",
+  "tracklist": [
+    "The Grants", "Did You Know", "Sweet", "A&W", "Judah Smith Interlude",
+    "Kintsugi", "Paris, Texas", "Peppers", "Taco Truck x VB"
+  ]
+},
+{
+  "imagem": "https://img.cdandlp.com/2023/11/img/169768939.jpg",
+  "nome": "Blur: The Ballad of Darren",
+  "preco": "13,50€",
+  "category": "cds",
+  "id": "13",
+  "tracklist": [
+    "The Ballad", "St. Charles Square", "Barbaric", "Russian Strings",
+    "The Narcissist", "Goodbye Albert", "The Heights"
+  ]
+},
+{
+  "imagem": "https://i.ebayimg.com/images/g/4MEAAOSwJzdlkFyx/s-l1600.jpg",
+  "nome": "Paramore: This Is Why",
+  "preco": "14,99€",
+  "category": "cds",
+  "id": "14",
+  "tracklist": [
+    "This Is Why", "The News", "Running Out of Time", "C'est Comme Ça",
+    "Figure 8", "Liar", "Crave", "Thick Skull"
+  ]
+},
+    {
       "imagem": "https://store.taylorswift.com/cdn/shop/files/fywDRRryngT6VG7rvNyX.png?v=1687282777&width=1000",
-      "nome": "Taylor Swift: T-Shirt The Eras Tour",
-      "preco": "39,15€",
+      "nome": "Taylor Swift: The Eras Tour T-Shirt",
+      "preco": "49,15€",
       "category": "merch",
-      "id": "9"
+      "id": "15"
     },
     {
       "imagem": "https://shopuk.sabrinacarpenter.com/cdn/shop/files/Blue-Hoodie-Updated.webp?v=1744813625",
-      "nome": "Sabrina Carpenter: Sweat Short N' Sweet",
-      "preco": "84,00€",
+      "nome": "Sabrina Carpenter: Short N' Sweet Sweat",
+      "preco": "74,00€",
       "category": "merch",
-      "id": "10"
+      "id": "16"
     },
     {
       "imagem": "https://www.billieeilishstore.de/cdn/shop/files/Billie-Eilish_Thermal-Photo-Title-Pullover-Black_Hoodie_s508236_o3772449_a444771_v11785802.789afedb.png?v=1740481960",
-      "nome": "Billie Eilish: Sweat Hit Me Hard and Soft",
-      "preco": "120,00€",
+      "nome": "Billie Eilish: Hit Me Hard and Soft Sweat",
+      "preco": "100,00€",
       "category": "merch",
-      "id": "11"
+      "id": "17"
     },
     {
       "imagem": "https://store.nbthieves.com/cdn/shop/files/NBT---UK-Hoodie-black-back.png?v=1700160293&width=533",
-      "nome": "Nothing But Thieves: Sweat DCC World Tour",
-      "preco": "66,33€",
+      "nome": "Nothing But Thieves: DCC World Tour Sweat",
+      "preco": "36,33€",
       "category": "merch",
-      "id": "12"
-    }
+      "id": "18"
+    },
+    {
+  "imagem": "https://shopuk.sabrinacarpenter.com/cdn/shop/files/Black_Tee_Sabrina.webp?v=1744813625",
+  "nome": "Sabrina Carpenter: Espresso Tour T-Shirt",
+  "preco": "29,90€",
+  "category": "merch",
+  "id": "19"
+},
+{
+  "imagem": "https://shopoliviarodrigo.com/cdn/shop/products/OliviaRodrigo_SourTourTee_Front_720x.png?v=1693420434",
+  "nome": "Olivia Rodrigo: Sour Tour T-Shirt",
+  "preco": "34,99€",
+  "category": "merch",
+  "id": "20"
+},
+{
+  "imagem": "https://store.billieeilish.com/cdn/shop/products/BillieEilish_HMHASAlbumCoverTee_White_Front_2048x.png?v=1714676823",
+  "nome": "Billie Eilish: HMHAS Cover T-Shirt",
+  "preco": "35,00€",
+  "category": "merch",
+  "id": "21"
+},
+{
+  "imagem": "https://cdn.shopify.com/s/files/1/0265/8471/0251/products/the-weeknd-after-hours-t-shirt_900x.png?v=1614712469",
+  "nome": "The Weeknd: After Hours T-Shirt",
+  "preco": "27,50€",
+  "category": "merch",
+  "id": "22"
+}
   ]
 }
