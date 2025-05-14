@@ -72,17 +72,54 @@
   "preco": "35,00€",
   "category": "vinyls",
   "id": "7",
-  "tracklist": [
-    "Come Together", "Something", "Octopus's Garden", "I Want You", "Here Comes the Sun",
-    "Because", "You Never Give Me Your Money", "The End"
-  ]
+  "tracklist": ["Come Together", "Something", "Octopus's Garden", "I Want You", "Here Comes the Sun", "Because", "You Never Give Me Your Money", "The End"]
 },
+     {
+      "imagem": "",
+      "nome": "The 1975: Being Funny in a Foreign Language",
+      "preco": "27,99€",
+      "category": "vinyls",
+      "id": "8",
+      "tracklist": ["The 1975", "Happiness", "Looking For Somebody", "Oh Caroline", "Part of the Band", "Wintering", "About You", "When We Are Together"]
+    },
+    {
+      "imagem": "",
+      "nome": "Lana Del Rey: Ultraviolence",
+      "preco": "33,99€",
+      "category": "vinyls",
+      "id": "9",
+      "tracklist": ["Cruel World", "Ultraviolence", "Shades of Cool", "Brooklyn Baby", "West Coast", "Sad Girl", "The Other Woman"]
+    },
+    { 
+      "imagem": "",
+      "nome": "Harry Styles: Harry's House",
+      "preco": "29,99€",
+      "category": "vinyls",
+      "id": "10",
+      "tracklist": ["Music for a Sushi Restaurant", "Late Night Talking", "Grapejuice", "As It Was", "Matilda", "Daydreaming", "Satellite"]
+    },
+    {
+      "imagem": "",
+      "nome": "Olivia Rodrigo: GUTS",
+      "preco": "30,99€",
+      "category": "vinyls",
+      "id": "11",
+      "tracklist": ["All-American Bitch", "Bad Idea Right?", "Vampire", "Lacy", "Ballad of a Homeschooled Girl", "Logical", "Get Him Back!", "Love is Embarrassing"]
+    },
+    {
+      "imagem": "",
+      "nome": "Taylor Swift: Folklore",
+      "preco": "33,90€",
+      "category": "vinyls",
+      "id": "12",
+      "tracklist": ["The 1", "Cardigan", "The Last Great American Dynasty", "Exile", "My Tears Ricochet", "August", "Mirrorball", "Betty"]
+    },
     {
       "imagem": "https://cdn.hmv.com/r/w-640/hmv/files/54/54d69aea-c9ac-4e77-8ba2-7be88708a8d2.jpg",
       "nome": "Twenty One Pilots: Clancy",
       "preco": "17,99€",
       "category": "cds",
-      "id": "8",
+      "id": "13",
       "tracklist": [
     "Overcompensate", "Next Semester", "Backslide", "Midwest Indigo", "Lavish", "Vignette", "Oldies Station"
   ]
@@ -92,7 +129,7 @@
       "nome": "The Strokes: The New Abnormal",
       "preco": "12,99€",
       "category": "cds",
-      "id": "9",
+      "id": "14",
        "tracklist": [
     "The Adults Are Talking", "Selfless", "Brooklyn Bridge to Chorus", "Bad Decisions",
     "Eternal Summer", "At the Door", "Not the Same Anymore", "Ode to the Mets"
@@ -103,7 +140,7 @@
       "nome": "Taylor Swift: The Tortured Poets Department: The Antalogy",
       "preco": "26,99€",
       "category": "cds",
-      "id": "10",
+      "id": "15",
       "tracklist": [
     "Fortnight", "The Tortured Poets Department", "My Boy Only Breaks His Favorite Toys",
     "Guilty as Sin?", "Who's Afraid of Little Old Me?", "The Smallest Man Who Ever Lived",
@@ -115,7 +152,7 @@
       "nome": "Inhaler: Open Wide",
       "preco": "17,99€",
       "category": "cds",
-      "id": "11",
+      "id": "16",
       "tracklist": [
     "Just to Keep You Satisfied", "Open Wide", "Valentine", "My King Will Be Kind",
     "These Are the Days", "Totally", "If You're Gonna Break My Heart"
@@ -126,7 +163,7 @@
   "nome": "Lana Del Rey: Ocean Blvd",
   "preco": "15,99€",
   "category": "cds",
-  "id": "12",
+  "id": "17",
   "tracklist": [
     "The Grants", "Did You Know", "Sweet", "A&W", "Judah Smith Interlude",
     "Kintsugi", "Paris, Texas", "Peppers", "Taco Truck x VB"
@@ -137,7 +174,7 @@
   "nome": "Blur: The Ballad of Darren",
   "preco": "13,50€",
   "category": "cds",
-  "id": "13",
+  "id": "18",
   "tracklist": [
     "The Ballad", "St. Charles Square", "Barbaric", "Russian Strings",
     "The Narcissist", "Goodbye Albert", "The Heights"
@@ -148,7 +185,7 @@
   "nome": "Paramore: This Is Why",
   "preco": "14,99€",
   "category": "cds",
-  "id": "14",
+  "id": "19",
   "tracklist": [
     "This Is Why", "The News", "Running Out of Time", "C'est Comme Ça",
     "Figure 8", "Liar", "Crave", "Thick Skull"
@@ -159,7 +196,7 @@
   "nome": "The Weeknd: Starboy",
   "preco": "24,99€",
   "category": "cds",
-  "id": "15",
+  "id": "20",
   "tracklist": [
     "Starboy (feat. Daft Punk)",
     "Party Monster",
@@ -181,60 +218,102 @@
     "I Feel It Coming (feat. Daft Punk)"
     },
     {
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/5/5e/Coldplay_-_Parachutes.png",
+      "nome": "Coldplay: Parachutes",
+      "preco": "11,99€",
+      "category": "cds",
+      "id": "21",
+      "tracklist": [
+        "Don't Panic", "Shiver", "Spies", "Sparks", "Yellow", "Trouble"
+      ]
+    },
+    {
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/0/0a/Harry_Styles_-_Harry%27s_House.png",
+      "nome": "Harry Styles: Harry's House",
+      "preco": "19,90€",
+      "category": "cds",
+      "id": "22",
+      "tracklist": [
+        "Music for a Sushi Restaurant", "Late Night Talking", "Grapejuice", "As It Was",
+        "Daylight", "Little Freak", "Matilda"
+      ]
+    },
+    {
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/1/13/Mitski_-_Laurel_Hell.png",
+      "nome": "Mitski: Laurel Hell",
+      "preco": "13,99€",
+      "category": "cds",
+      "id": "23",
+      "tracklist": [
+        "Valentine, Texas", "Working for the Knife", "Stay Soft", "Everyone", "Heat Lightning"
+      ]
+    },
+    {
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/6/67/Billie_Eilish_-_When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png",
+      "nome": "Billie Eilish: When We All Fall Asleep, Where Do We Go?",
+      "preco": "16,99€",
+      "category": "cds",
+      "id": "24",
+      "tracklist": [
+        "Bad Guy", "Xanny", "You Should See Me in a Crown", "All the Good Girls Go to Hell",
+        "Wish You Were Gay", "When the Party's Over", "My Strange Addiction"
+      ]
+    },
+    {
       "imagem": "https://store.taylorswift.com/cdn/shop/files/fywDRRryngT6VG7rvNyX.png?v=1687282777&width=1000",
       "nome": "Taylor Swift: The Eras Tour T-Shirt",
       "preco": "49,15€",
       "category": "merch",
-      "id": "16"
+      "id": "25"
     },
     {
       "imagem": "https://shopuk.sabrinacarpenter.com/cdn/shop/files/Blue-Hoodie-Updated.webp?v=1744813625",
       "nome": "Sabrina Carpenter: Short N' Sweet Sweat",
       "preco": "74,00€",
       "category": "merch",
-      "id": "17"
+      "id": "26"
     },
     {
       "imagem": "https://www.billieeilishstore.de/cdn/shop/files/Billie-Eilish_Thermal-Photo-Title-Pullover-Black_Hoodie_s508236_o3772449_a444771_v11785802.789afedb.png?v=1740481960",
       "nome": "Billie Eilish: Hit Me Hard and Soft Sweat",
       "preco": "100,00€",
       "category": "merch",
-      "id": "18"
+      "id": "27"
     },
     {
       "imagem": "https://store.nbthieves.com/cdn/shop/files/NBT---UK-Hoodie-black-back.png?v=1700160293&width=533",
       "nome": "Nothing But Thieves: DCC World Tour Sweat",
       "preco": "36,33€",
       "category": "merch",
-      "id": "19"
+      "id": "28"
     },
     {
   "imagem": "https://shopuk.sabrinacarpenter.com/cdn/shop/files/Black_Tee_Sabrina.webp?v=1744813625",
   "nome": "Sabrina Carpenter: Espresso Tour T-Shirt",
   "preco": "29,90€",
   "category": "merch",
-  "id": "20"
+  "id": "29"
 },
 {
   "imagem": "https://shopoliviarodrigo.com/cdn/shop/products/OliviaRodrigo_SourTourTee_Front_720x.png?v=1693420434",
   "nome": "Olivia Rodrigo: Sour Tour T-Shirt",
   "preco": "34,99€",
   "category": "merch",
-  "id": "21"
+  "id": "30"
 },
 {
   "imagem": "https://store.billieeilish.com/cdn/shop/products/BillieEilish_HMHASAlbumCoverTee_White_Front_2048x.png?v=1714676823",
   "nome": "Billie Eilish: HMHAS Cover T-Shirt",
   "preco": "35,00€",
   "category": "merch",
-  "id": "22"
+  "id": "31"
 },
 {
   "imagem": "https://cdn.shopify.com/s/files/1/0265/8471/0251/products/the-weeknd-after-hours-t-shirt_900x.png?v=1614712469",
   "nome": "The Weeknd: After Hours T-Shirt",
   "preco": "27,50€",
   "category": "merch",
-  "id": "23"
+  "id": "32"
 }
   ]
 }
